@@ -1,10 +1,8 @@
 /* =======================================================================
-Template Name: Dil Hospital
-Author:  SmartEye Adminpanel
-Author URI: www.smarteyeapps.com
+Author:  YoungIcom
 Version: 1.0
-coder name:Prabin Raja
-Description: This Template is created for web template
+coder name:Yesaya Situmroang
+Description: This Template is created for CV Web
 ======================================================================= */
 /* ===================================== Import Less ================================== */
 @font-face {
@@ -149,17 +147,17 @@ body {
       color: #444; }
 
 .btn-success {
-  background-color: #00ab9f;
-  border-color: #00ab9f; }
+  background-color: #40A2E3;
+  border-color: #40A2E3; }
   .btn-success:hover {
-    background-color: #00ab9f !important;
-    border-color: #00ab9f !important; }
+    background-color: #40A2E3 !important;
+    border-color: #40A2E3 !important; }
   .btn-success:active {
-    background-color: #00ab9f !important;
-    border-color: #00ab9f !important; }
+    background-color: #40A2E3 !important;
+    border-color: #40A2E3 !important; }
   .btn-success:focus {
-    background-color: #00ab9f !important;
-    border-color: #00ab9f !important;
+    background-color: #40A2E3 !important;
+    border-color: #40A2E3 !important;
     box-shadow: none !important; }
 
 .btn-info {
@@ -225,7 +223,7 @@ body {
       padding: 0px;
       padding-right: 10px; } }
   .profile-box .left-side {
-    background-color: #00ab9f;
+    background-color: #40A2E3;
     color: #FFF;
     padding: 40px 20px; }
     .profile-box .left-side .profile-info {
@@ -380,6 +378,6 @@ body {
     .rit-cover .profess-cover .prog-row div {
       padding: 0px; }
   .rit-cover .profess-cover .progress-bar {
-    background-color: #00ab9f; }
+    background-color: #40A2E3; }
 
 /*# sourceMappingURL=style.css.map */
